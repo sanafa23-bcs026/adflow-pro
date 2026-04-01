@@ -104,7 +104,7 @@ The project is deployed on Vercel:
 
 ## 📄 License
 
-This project is for educational purposes.
+This project is for educational purposes...
 
 
 
